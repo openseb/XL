@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![XL Logo](https://via.placeholder.com/150x150.png?text=XL)
+![XL Logo](/xllogo.png)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
