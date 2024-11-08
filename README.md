@@ -18,7 +18,7 @@ This project is for **educational purposes only**. It demonstrates RSS feed pars
 
 ## ✨ Features
 
-- 🔄 Real-time tweet monitoring
+- 🔄 Kinda Real-time tweet monitoring
 - 🔙 Backwards tweet discovery mode
 - ⚡ Parallel processing of multiple Nitter instances
 - 🔄 Automatic instance rotation and recovery
